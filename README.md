@@ -19,4 +19,4 @@ To init and run server, use - pg_ctl
 For using Ukraine lang in DB you need to change encoding in postgres to 1251:
 Step 1 - enter cmd
 Step 2 - enter database
-Step 3 - write \! chcp 1251
+Step 3 - write "\! chcp 1251"
